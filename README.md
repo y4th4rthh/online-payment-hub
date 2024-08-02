@@ -1,5 +1,7 @@
 # online-payment-hub
 
+![Project Preview](./preview/OPH.png)
+
 ## Cloning and Running the Java Program Locally
 
 ### `git clone https://github.com/y4th4rthh/online-payment-hub`
