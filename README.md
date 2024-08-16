@@ -1,4 +1,4 @@
-# online-payment-hub
+# Online Payment Hub
 
 ![Project Preview](./preview/OPH.png)
 
